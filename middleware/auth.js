@@ -17,4 +17,6 @@ let auth = function(req, res, next) {
 	next();
 }
 
+// testing
+
 module.exports = { auth };
