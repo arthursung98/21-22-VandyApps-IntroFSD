@@ -15,6 +15,6 @@ I will use this repo to update the most "stable" version of our work so far, mea
 3. Type 'npm install' and press enter. What this does is access the package.json file, see what dependencies are used in this project, and then automatically install all the packages for you from the package.json file. Much faster than typing the packages individually like 'npm install express', 'npm install mongoose', and so on.
 4. Then go to 'index.js' and the 33rd line where we declare the variable "mongoURI". Inside the string, replace the {Your ID}, {Your Password}, {Your desired DB name} with your information that can be retrieved at MongoDB. If you forgot your ID or password, access the location below to delete and create a new user.
 
-![MongoDB Access](screenshots\MongoUser.JPG)
+![MongoDB Access](\screenshots\MongoUser.JPG)
 
 5. Then open the terminal and type "npm run backend" to start the server.
