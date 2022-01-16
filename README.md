@@ -1,6 +1,6 @@
 # 21 - 22 VandyApps Intro FSD
 
-** Hello Everyone !**
+**Hello Everyone !**
 
 I will use this repo to update the most "stable" version of our work so far, meaning that I tested and verified the functionality of all the files along with comments to help refresh your memory. It is very unlikely that the files contain any errors (or so I hope) and so if you encounter an error after downloading this repo a lot of it may be environment issues. Some major sources of errors could be,
 
