@@ -30,7 +30,7 @@ app.listen(port, () => {
  * Below is a description of the mongoose.connect() method from the mongoose website.
  * https://mongoosejs.com/docs/connections.html
  */
-const mongoURI = `mongodb+srv://{Your ID}:{Your Password}@introfsd.xw0p9.mongodb.net/{Your desired DB name}?retryWrites=true&w=majority`;
+const mongoURI = `mongodb+srv://arthursung98:qwer123@introfsd.xw0p9.mongodb.net/{Your desired DB name}?retryWrites=true&w=majority`;
 mongoose
   .connect(mongoURI)
   .then(console.log("DB Connected!"))
